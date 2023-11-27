@@ -1,16 +1,15 @@
-# Zadanie_1
-.. toctree::
-   :maxdepth: 2
-   :caption: Spis treści:
 
-   rozdzial1
-   rozdzial2
-   rozdzial3
+# Zadanie 1
+
+Krótkie opisy miast Polski, w formie kodu. Trzy rozdziały.
 
 
-.. Indices and tables
-.. ==================
 
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
+## Autor
+
+- [@Kamil Filipiak Github](https://www.github.com/Kamczako)
+
+
+
+
+
